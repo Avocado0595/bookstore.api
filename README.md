@@ -22,5 +22,7 @@ ok!
     + -D prettier: auto format code
     + npx tsc --init: tạo file tsconfig.json
     + dotenv: để dùng .env
-
+*error: env.PORT can be undefined => use ternary operator
 - config structure:
+
+3. Install typeORM
